@@ -67,19 +67,18 @@
 #main_container{
   width: 90%;
   height: 120vh;
-  background-color: aqua;
   margin: 0 auto;
   padding: 28px;
   display: flex;
   justify-content: space-around;
   align-items: center;
   text-align: center;
-
+  gap: 30px;
 }
 .content_area{
   width: 100%;
   height: 120vh;
-  background-color: beige;
+  background-color: aquamarine;
 }
 
 /*===== footer area =====*/
